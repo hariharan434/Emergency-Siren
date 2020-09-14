@@ -26,8 +26,3 @@ lets discuss about 1st interface:-
                5.we will be providing details about what to do if anyone going to face any issue regarding their safety.
 
 
-           
-Note:- 1.we can add more features later i telling u guys to get an overview about this topic.
-       2. we can add hospital interface for accidents if we are interested.
-       3. Here we are not accessing any data bcoz we need to do just a protocol type and with this we expalin about our project in demo.
-       4. we will be building this without functionality.
